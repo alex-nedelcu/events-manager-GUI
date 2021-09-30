@@ -1,0 +1,378 @@
+{
+	"BUILD_DIR" : "/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/cmake-build-debug/a10_915_Nedelcu_Alexandru_1_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1",
+	"CMAKE_EXECUTABLE" : "/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/CMakeLists.txt",
+		"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/CMakeSystemSpecificInitialize.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/Platform/Darwin-Initialize.cmake",
+		"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake",
+		"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/CMakeSystemSpecificInformation.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/CMakeGenericSystem.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/CMakeInitializeConfigs.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/Platform/Darwin.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/Platform/UnixPaths.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/CMakeFindCodeBlocks.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/ProcessorCount.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/CMakeCInformation.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/CMakeLanguageInformation.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/Compiler/AppleClang-C.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/Compiler/Clang.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/Compiler/GNU.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/Platform/Apple-AppleClang-C.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/Platform/Apple-Clang-C.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/Platform/Apple-Clang.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/CMakeCommonLanguageInclude.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/CMakeCXXInformation.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/CMakeLanguageInformation.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/Compiler/AppleClang-CXX.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/Compiler/Clang.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/Platform/Apple-AppleClang-CXX.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/Platform/Apple-Clang-CXX.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/Platform/Apple-Clang.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/CMakeCommonLanguageInclude.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/CMakeParseArguments.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QCocoaIntegrationPlugin.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMacHeifPlugin.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMacJp2Plugin.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Widgets/Qt5Widgets_QMacStylePlugin.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/CMakeParseArguments.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/BUSINESS/AdminService.h",
+			"MU",
+			"S7MGPLTSXH/moc_AdminService.cpp"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/BUSINESS/UserService.h",
+			"MU",
+			"S7MGPLTSXH/moc_UserService.cpp"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/COMMAND_DESIGN_PATTERN/AddCommand.h",
+			"MU",
+			"27UKD62WZZ/moc_AddCommand.cpp"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/COMMAND_DESIGN_PATTERN/CommandManager.h",
+			"MU",
+			"27UKD62WZZ/moc_CommandManager.cpp"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/COMMAND_DESIGN_PATTERN/ICommand.h",
+			"MU",
+			"27UKD62WZZ/moc_ICommand.cpp"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/COMMAND_DESIGN_PATTERN/RemoveCommand.h",
+			"MU",
+			"27UKD62WZZ/moc_RemoveCommand.cpp"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/COMMAND_DESIGN_PATTERN/UpdateCommand.h",
+			"MU",
+			"27UKD62WZZ/moc_UpdateCommand.cpp"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/DOMAIN/Date.h",
+			"MU",
+			"4AEDR3ZWFT/moc_Date.cpp"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/DOMAIN/Event.h",
+			"MU",
+			"4AEDR3ZWFT/moc_Event.cpp"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/EXCEPTIONS/BaseException.h",
+			"MU",
+			"HNKBVSCWFF/moc_BaseException.cpp"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/EXCEPTIONS/RepositoryException.h",
+			"MU",
+			"HNKBVSCWFF/moc_RepositoryException.cpp"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/EXCEPTIONS/ValidationException.h",
+			"MU",
+			"HNKBVSCWFF/moc_ValidationException.cpp"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/GUI/AdminGUI.h",
+			"MU",
+			"2LCCYRVYXB/moc_AdminGUI.cpp"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/GUI/ModeOptionsGUI.h",
+			"MU",
+			"2LCCYRVYXB/moc_ModeOptionsGUI.cpp"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/GUI/PersistenceOptionsGUI.h",
+			"MU",
+			"2LCCYRVYXB/moc_PersistenceOptionsGUI.cpp"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/GUI/UserGUI.h",
+			"MU",
+			"2LCCYRVYXB/moc_UserGUI.cpp"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/MODEL_VIEW_DESIGN_PATTERN/EventsTableModel.h",
+			"MU",
+			"5ONJUKKNEG/moc_EventsTableModel.cpp"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/PERSISTENCE/CSVFileRepository.h",
+			"MU",
+			"JW3PPRXGQH/moc_CSVFileRepository.cpp"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/PERSISTENCE/FileRepository.h",
+			"MU",
+			"JW3PPRXGQH/moc_FileRepository.cpp"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/PERSISTENCE/HTMLEventsRepository.h",
+			"MU",
+			"JW3PPRXGQH/moc_HTMLEventsRepository.cpp"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/PERSISTENCE/MemoryRepository.h",
+			"MU",
+			"JW3PPRXGQH/moc_MemoryRepository.cpp"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/PERSISTENCE/VirtualRepository.h",
+			"MU",
+			"JW3PPRXGQH/moc_VirtualRepository.cpp"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/START/StarterGUI.h",
+			"MU",
+			"B3OFIGJX2F/moc_StarterGUI.cpp"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/VALIDATION/Validator.h",
+			"MU",
+			"B6SXICQBD2/moc_Validator.cpp"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/VALIDATION/VirtualValidator.h",
+			"MU",
+			"B6SXICQBD2/moc_VirtualValidator.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/cmake-build-debug/a10_915_Nedelcu_Alexandru_1_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/cmake-build-debug/a10_915_Nedelcu_Alexandru_1_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/BUSINESS",
+		"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/DOMAIN",
+		"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/EXCEPTIONS",
+		"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/GUI",
+		"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/PERSISTENCE",
+		"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/START",
+		"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/VALIDATION",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/QtCore.framework",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/QtCore.framework/Headers",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/mkspecs/macx-clang",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/QtGui.framework",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/QtGui.framework/Headers",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/System/Library/Frameworks/OpenGL.framework/Headers",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/QtWidgets.framework",
+		"/Users/alexnedelcu/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include/c++/v1",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.19/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/cmake-build-debug/a10_915_Nedelcu_Alexandru_1_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/cmake-build-debug/CMakeFiles/a10_915_Nedelcu_Alexandru_1_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/Users/alexnedelcu/Qt/5.15.2/clang_64/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/Users/alexnedelcu/Qt/5.15.2/clang_64/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/cmake-build-debug/CMakeFiles/a10_915_Nedelcu_Alexandru_1_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/BUSINESS/AdminService.cpp",
+			"MU"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/BUSINESS/UserService.cpp",
+			"MU"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/COMMAND_DESIGN_PATTERN/AddCommand.cpp",
+			"MU"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/COMMAND_DESIGN_PATTERN/CommandManager.cpp",
+			"MU"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/COMMAND_DESIGN_PATTERN/ICommand.cpp",
+			"MU"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/COMMAND_DESIGN_PATTERN/RemoveCommand.cpp",
+			"MU"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/COMMAND_DESIGN_PATTERN/UpdateCommand.cpp",
+			"MU"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/DOMAIN/Date.cpp",
+			"MU"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/DOMAIN/Event.cpp",
+			"MU"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/EXCEPTIONS/BaseException.cpp",
+			"MU"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/EXCEPTIONS/RepositoryException.cpp",
+			"MU"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/EXCEPTIONS/ValidationException.cpp",
+			"MU"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/GUI/AdminGUI.cpp",
+			"MU"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/GUI/ModeOptionsGUI.cpp",
+			"MU"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/GUI/PersistenceOptionsGUI.cpp",
+			"MU"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/GUI/UserGUI.cpp",
+			"MU"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/MODEL_VIEW_DESIGN_PATTERN/EventsTableModel.cpp",
+			"MU"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/PERSISTENCE/CSVFileRepository.cpp",
+			"MU"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/PERSISTENCE/FileRepository.cpp",
+			"MU"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/PERSISTENCE/HTMLEventsRepository.cpp",
+			"MU"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/PERSISTENCE/MemoryRepository.cpp",
+			"MU"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/PERSISTENCE/VirtualRepository.cpp",
+			"MU"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/START/StarterGUI.cpp",
+			"MU"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/VALIDATION/Validator.cpp",
+			"MU"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/VALIDATION/VirtualValidator.cpp",
+			"MU"
+		],
+		[
+			"/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/main.cpp",
+			"MU"
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

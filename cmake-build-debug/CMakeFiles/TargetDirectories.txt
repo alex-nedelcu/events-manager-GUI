@@ -1,0 +1,4 @@
+/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/cmake-build-debug/CMakeFiles/a10_915_Nedelcu_Alexandru_1.dir
+/Users/alexnedelcu/Documents/GitHub/a10-915-Nedelcu-Alexandru-1/cmake-build-debug/CMakeFiles/a10_915_Nedelcu_Alexandru_1_autogen.dir
