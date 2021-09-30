@@ -1,4 +1,4 @@
-# Graphical User Interface Events Manager
+# GUI Events Manager
 The current project is an updated version of <a href="https://github.com/alex-nedelcu/events-manager">this one.</a><br>
 The new features of the application consist of:
   * the user interface is graphical (built using Qt5)
