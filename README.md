@@ -1,7 +1,7 @@
 # GUI Events Manager
 
 Some features of the application consist of:
-  * the user interface is graphical (built using Qt5)
+  * the graphical user interface is built using Qt5
   * undo/redo functionality is supported
   * MVC and Command design patterns are used
 
