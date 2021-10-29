@@ -6,8 +6,8 @@ Some features of the application consist of:
   * MVC and Command design patterns are used
 
 ## Description
-Console application which can be used both by an administrator and by a user in order to manage a list of events.<br>
-The implementation uses an object-oriented approach and concepts such as layered architecture, inheritance, polymorphism.<br>
+GUI application which can be used both by an administrator and by a user in order to manage a list of events.<br>
+The implementation uses an object-oriented approach and concepts such as layered architecture, inheritance, polymorphism, encapsulation, abstraction, GRASP principles.<br>
 
 ## Details 
 Lectures, seminars and labs ... school in general must be taken seriously; BUT so must be your social life and leisure
